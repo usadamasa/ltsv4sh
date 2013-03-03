@@ -14,3 +14,4 @@ Primitive LTSV Parser for sh.
   check label is valid.  
   check string is valid as LTSV.  
   dump all label-values.  
+  decide to behave if labels would be duplicated. 
