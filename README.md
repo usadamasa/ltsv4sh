@@ -8,3 +8,9 @@ Primitive LTSV Parser for sh.
   #echo hage  
   ltsv_get "huga" "hoge:hage fuga:fugo"  
   #echo fugo  
+
+###TODO:
+  check label-value exists.  
+  check label is valid.  
+  check string is valid as LTSV.  
+  dump all label-values.  
